@@ -1,0 +1,10 @@
+# Personal drop box contents: never commit these
+Inbox/
+
+# Build output
+build/
+prebuilt/
+
+# macOS junk
+.DS_Store
+._*
