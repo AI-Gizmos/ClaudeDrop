@@ -8,3 +8,6 @@ prebuilt/
 # macOS junk
 .DS_Store
 ._*
+
+# Packaged installer zips
+dist/
